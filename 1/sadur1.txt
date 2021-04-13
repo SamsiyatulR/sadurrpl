@@ -3,3 +3,19 @@ NAMA : Samsiyatul Rosyidah
 KELOMPOK : TI6J
 
 berisi saduran pertemuan pertama
+dimana dibahas perkenalan, tata tertib perkuliahan dan kontrak perkuliahan
+berisi intuksi untuk menyadur setiap pertemuan dengan bahasa masing-masing
+setiap mahasiswa harus membuat akun github dengan nama masing-masing dan membuat repository baru
+dengan langkah awal
+- ketik github.com di browser atau google
+- ketik nama repository sesuai apa yang akan kita buat
+- ketik deskripsi
+- kemuadian klik di bagian add a README file
+- selanjutnya klik tombol create repository
+- kemudian yang harus di lakukan adalah klik tombol add file selnajutnya klik create new file
+- ketik nama file kamu, tapi jika ingin membuat folder ketik nama folder yang kamu inginkan kemudian tambahkan garis miring (/) untuk nama folder kamu tambahkan .txt di belakang nama file nya
+- ketik apapun yang anda inginkan
+- kemudian untuk menyimpan klik commit new file di bagian paling bawah
+nilai kehadiran dinilai dari repository yang dibuat
+nilai tugas dilihat dari niat tidak nya hasil menyadur
+buat kelompok persentasi berisi tiga orang untuk persiapan menghadapi KP

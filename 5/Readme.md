@@ -23,7 +23,7 @@ berisi saduran pertemuan kelima<br>
 <br>
 <br>
 Untuk melihat lebih jelas rancangan layarnya anda dapat melihat di file di bawah ini<br>
-<file rancangan layar  src="Rancangan layar.epgz " width="100%"><br>
+file Rancangan layar <a href="Rancangan layar.epgz" target="_blank">disini</a><br>
 file deskripsi usecase <a href="deskripsi usecase diagram.docx" target="_blank">disini</a><br>
 
 

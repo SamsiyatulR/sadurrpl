@@ -9,9 +9,9 @@ berisi saduran pertemuan kelima<br>
 <br>
 <br><br>
 <ol>
-  <li>pertemuan lima berisi tentang aktivitas konsumen dalam memesan kan barang dan berinterksi langsung dengan aplikasi, sehingga mengharuskan mahasiswa untuk membuat serta rancangan aplikasinya</li>
-  <li>Dimana mahasiswa di tugaskan untuk menggambarkan interaksi konsumen dengan aplikasi secara langsung, sehingga di harapkan untuk membuat rancangan layar sesuai dengan diagram usecasenya</li>
-  <li>Dimana rancangan layar tersebut terdiri dari rancangan layar login, rancangan layar daftar akun, rancangan layar halaman utama, dan rancangan layar katalog</li>
+  <li>pertemuan lima berisi tentang aktivitas konsumen dalam memesan kan barang dan berinterksi langsung dengan aplikasi, sehingga mengharuskan mahasiswa untuk membuat serta rancangan layar aplikasinya</li>
+  <li>Mahasiswa di tugaskan untuk menggambarkan interaksi konsumen dengan aplikasi secara langsung, sehingga di harapkan untuk membuat rancangan layar sesuai dengan diagram usecasenya</li>
+  <li>Rancangan layar tersebut terdiri dari rancangan layar login, rancangan layar daftar akun, rancangan layar halaman utama, dan rancangan layar katalog</li>
   <li>Rancangan layar login dimana konsumen di minta untuk melakukan login jika sudah memiliki akun, dan jika konsumen belum memiliki akun maka di harapakan untuk membuat akun terlebih dahulu</li>
   <li>Rancangan layar daftar akun, jika konsumen belum memliki akun, maka konsumen harus memiliki akun terlebih dahulu, dan bisa mendaftarkan akunnya dengan mengklik daftar di halaman layar login
   <li>Dan mengisi data sesuai yang di minta oleh aplikasi secara lengkap, dimulai dari nama, alamat, dan nomor hp</li>
